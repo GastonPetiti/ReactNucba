@@ -1,19 +1,21 @@
-import { Box } from '@chakra-ui/react'
 import './App.css'
+import CategoryWidget from './components/categories/categoryWidget'
 import { Footer } from './components/footer/Footer'
 import Header from './components/header/Header'
 import { Hero } from './components/hero/Hero'
-import { Products } from './components/products/Products'
+import { ProductWidget } from './components/products/product_widget/product_widget'
+
 
 function App() {
 
   return (
-   <Box justifyContent={'space-between'} height={'100vh'}>
+  <>
    <Header/>
    <Hero/>
-   <Products></Products>
+   <CategoryWidget/>
+   <ProductWidget/>
    <Footer/>
-   </Box>
+  </>
   )
 }
 
