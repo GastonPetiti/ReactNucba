@@ -22,7 +22,7 @@ export const Hero = () => {
       borderColor={'teal.400'}/>
         <Text 
         fontSize={'xl'}>
-          Somos una tienda que importa los últimos modelos de celulares al mejor precio para Latinoamerica
+          Somos una tienda que importa los últimos modelos de celulares al mejor precio para Latinoamérica
         </Text>
       </Flex>
         <Flex 

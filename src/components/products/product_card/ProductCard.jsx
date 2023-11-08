@@ -19,7 +19,7 @@ export const ProductCard = ({img, model, brand, price,}) => {
     <Stack mt='6' spacing='3'>
       <Heading size='md'>{brand} {model}</Heading>
       <Text color='blue.600' fontSize='2xl'>
-        ${price}
+        USD {price}
       </Text>
     </Stack>
   </CardBody>

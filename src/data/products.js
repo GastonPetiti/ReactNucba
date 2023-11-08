@@ -9,7 +9,7 @@ const products = [
     {
         id:2,
         model:"15",
-        img:"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone15-digitalmat-gallery-4-202309?wid=364&hei=333&fmt=png-alpha&.v=1693011169045",
+        img:"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone15hero-202309?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1693086290559",
         price:800,
         brand:"Iphone"
     },
@@ -30,7 +30,7 @@ const products = [
     {
         id:5,
         model:"Z Fold",
-        img:"https://samsungar.vtexassets.com/arquivos/ids/192005-320-332/Samsung-109604459-ar-galaxy-z-fold4-f936-429925-sm-f936bzklaro-533083407--Download-Source-.png?v=638290916271030000",
+        img:"https://samsungar.vtexassets.com/arquivos/ids/192009-800-auto?width=800&height=auto&aspect=true",
         price:1800,
         brand:"Samsung"
     },
