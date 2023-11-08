@@ -3,7 +3,7 @@ import CategoryWidget from './components/categories/categoryWidget'
 import { Footer } from './components/footer/Footer'
 import Header from './components/header/Header'
 import { Hero } from './components/hero/Hero'
-import { ProductWidget } from './components/products/product_widget/product_widget'
+import { ProductWidget } from './components/products/product_widget/product_widget.jsx'
 
 
 function App() {
