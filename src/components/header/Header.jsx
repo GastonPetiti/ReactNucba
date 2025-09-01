@@ -3,7 +3,7 @@ import { Flex, Box } from '@chakra-ui/react'
 export const Header = () => {
   return (
     <Flex
-      height={"10vh"}
+      height={"10dvh"}
       width={"100%"}
       bg={"teal.900"}
       align={"center"}
@@ -12,7 +12,8 @@ export const Header = () => {
       color="orange.50"
       p={2}
     >
-      <Box>CelularesStore</Box>
+      <Box>
+        CelularesStore</Box>
       <Flex maxW={"fit-content"}>
         <ul className="linksContainer">
           <li>

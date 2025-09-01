@@ -30,7 +30,7 @@ export const Footer = () => {
       <Text bg={"teal.900"} w={"100%"} textAlign={"center"} color={"orange.50"}>
         Sitio hecho por{" "}
         <a
-          href="http://https://www.linkedin.com/in/gastonpetiti/"
+          href="https://www.linkedin.com/in/gastonpetiti/"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -6,14 +6,18 @@ export const Hero = () => {
     bg={'teal.400'}
     justifyContent={"space-around"}
     alignItems={'center'}
-    wrap={'wrap'}>
+    wrap={'wrap'}
+    minH = {'90dvh'}
+    width={'100%'}
+    >
       <Flex
       justify={'center'}
       align={'center'}
       flexDir={'column'}
       m={3}
       p={2}
-      color={'orange.50'}>
+      color={'orange.50'}
+      >
       <Heading>
           Celulares Store
       </Heading>
